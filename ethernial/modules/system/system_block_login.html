@@ -1,0 +1,28 @@
+<form action="<{xoAppUrl user.php}>" method="post">
+    <div class="form-group">
+        <label><{$block.lang_username}></label>
+        <input type="text" name="uname" value="<{$block.unamevalue}>" maxlength="25" class="form-control">
+    </div>
+    <div class="form-group">
+        <label><{$block.lang_password}></label>
+        <input type="password" name="pass" class="form-control" maxlength="32" />
+    </div>
+    <{if isset($block.lang_rememberme)}>
+    <div class="form-group">
+        <label>
+            <input type="checkbox" name="rememberme" value="On" class ="formButton"> <{$block.lang_rememberme}>
+        </label>
+    </div>
+    <{/if}>
+    <div class="form-control">
+        <input type="hidden" name="xoops_redirect" value="<{$xoops_requesturi}>" />
+        <input type="hidden" name="op" value="login" />
+        <button type="submit" class="btn btn-primary"><{$block.lang_login}></button>
+    </div>
+    <div class="form-group">
+        <{$block.sslloginlink}><br>
+        <a href="<{xoAppUrl user.php#lost}>" title="<{$block.lang_lostpass}>"><{$block.lang_lostpass}></a>
+        <br /><br />
+        <a href="<{xoAppUrl register.php}>" title="<{$block.lang_registernow}>"><{$block.lang_registernow}></a>
+    </div>
+</form>

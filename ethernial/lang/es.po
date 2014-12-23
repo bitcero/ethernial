@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ethernial Theme\n"
+"POT-Creation-Date: 2014-12-21 14:24-0600\n"
+"PO-Revision-Date: 2014-12-21 18:25-0600\n"
+"Last-Translator: Eduardo Cortés <me@eduardocortes.mx>\n"
+"Language-Team:  <i.bitcero@gmail.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: Y:\\www\\xoops\\themes\\ethernial\n"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:33
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:34
+msgid "Cover"
+msgstr "Portada"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:35
+msgid "Theme Colors"
+msgstr "Colores del Tema"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:36
+msgid "Theme Footer"
+msgstr "Pie del Tema"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:37
+msgid "Build"
+msgstr "Compilación"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:44
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:53
+msgid "Text for logo"
+msgstr "Texto para el logo"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:62
+msgid "Slogan"
+msgstr "Eslógan"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:71
+msgid "Image bg for header"
+msgstr "Imagen de fondo para el encabezado"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:80
+msgid "Main navigation text color"
+msgstr "Color de texto de la barra de navegación"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:89
+msgid "Main font"
+msgstr "Tipografía principal"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:98
+msgid "Blocks position"
+msgstr "Posición de los bloques"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:104
+msgid "Left"
+msgstr "Izquierda"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:105
+msgid "Right"
+msgstr "Derecha"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:113
+msgid "Welcome message"
+msgstr "Mensaje de bienvenida"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:117
+msgid "Introducing <strong>Ethernial</strong> Theme"
+msgstr "Presentando <strong>Ethernial</strong>"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:122
+msgid "Welcome tagline"
+msgstr "Slogan de bienvenida"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:126
+msgid "This is a responsive freemium theme made for XOOPS. Do you like?"
+msgstr "Este es un tema responsivo y premium hecho para XOOPS. ¿Te gusta?"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:131
+msgid "QuickPages page for homepage"
+msgstr "Página de QuickPages para la portada"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:132
+msgid "Specify the page ID to use in theme homepage"
+msgstr "Especifica el ID de página para usar en la portada"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:140
+msgid "Homepage page link"
+msgstr "Enlace de la página de la portada"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:149
+msgid "Color of logo"
+msgstr "Color del logo"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:158
+msgid "Background color of \"Start\" button"
+msgstr "Color de fondo para el botón \"Inicio\""
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:167
+msgid "Show shadow for logo and slogan"
+msgstr "Mostrar sombra para el logo y el eslógan"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:179
+msgid "Primary color"
+msgstr "Color principal"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:188
+msgid "Primary hover color"
+msgstr "Color principal para el evento hover"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:199
+msgid "Footer background color:"
+msgstr "Color de fondo del pie:"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:208
+msgid "Footer text color:"
+msgstr "Color de texto del pie:"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:217
+msgid "Footer links color:"
+msgstr "Color de enlaces del pie:"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:226
+msgid "Footer featured text:"
+msgstr "Texto destacado del pie:"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:230
+msgid "Do you believe now?"
+msgstr "¿Ahora lo crees?"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:235
+msgid "Footer featured tagline:"
+msgstr "Slogan destacado para el pie"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:244
+msgid "Social networks:"
+msgstr "Redes sociales:"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:252
+msgid "Specify the FontAwesome icon to use"
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:253
+msgid "e.g. fa-twitter."
+msgstr "por ejemplo fa-twitter"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:257
+msgid "Specify the link for this item"
+msgstr "Especifica el enlace para este elemento"
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:268
+msgid "Build Bootstrap:"
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:276
+msgid "Build Ethernial styles:"
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/assemble/ether-settings.php:284
+msgid "Build MyWords styles:"
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/assemble/ethernial.theme.php:42
+msgid ""
+"A XOOPS theme designed for XOOPS and Common Utilities and created by Eduardo "
+"Cortés."
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/assemble/ethernial.theme.php:68
+msgid "Menú principal"
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/assemble/ethernial.theme.php:106
+msgid "Continue Reading"
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/assemble/ethernial.theme.php:107
+msgid "Recent in Blog"
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/assemble/ethernial.theme.php:157
+msgid "Ethernial Lateral"
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/assemble/ethernial.theme.php:158
+msgid "Ethernial Footer"
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/assemble/ethernial.theme.php:173
+msgid "Tweetie for Ethernial"
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/assemble/ethernial.theme.php:174
+msgid "Simple twitter feed block for Ethernial"
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:84
+msgid "Consumer key"
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:86
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:92
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:101
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:107
+msgid "Get one from dev.twitter.com/apps."
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:90
+msgid "Access token"
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:99
+msgid "Consumer secret key"
+msgstr "Clave secreta de consumidor"
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:105
+msgid "Access token secret"
+msgstr "Token de acceso secreto"
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:117
+msgid "Username"
+msgstr "Usuario"
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:119
+msgid "Option to load tweets from another account or list owner's username."
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:122
+msgid "List"
+msgstr "Lista"
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:124
+msgid ""
+"List name to load tweets from. If you define list name you also must define "
+"the username of the list owner in the username option."
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:130
+msgid "Hashtag"
+msgstr "Hashtag"
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:132
+msgid "Option to load tweets with a specific hashtag."
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:135
+msgid "Twets count"
+msgstr "Número de tweets"
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:137
+msgid "Number of tweets you want to display."
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:143
+msgid "Show replies"
+msgstr "Mostrar respuestas"
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:146
+msgid "Show"
+msgstr "Mostrar"
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:149
+msgid "Hide"
+msgstr "Ocultar"
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:151
+msgid "Select \"Hide\" if you want to hide \"@\" replies as well."
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:154
+msgid "Date format"
+msgstr "Formato de fecha"
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:156
+#, php-format
+msgid "Your date format, reference %s table for available formats."
+msgstr ""
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:156
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:163
+msgid "this"
+msgstr "esta"
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:161
+msgid "Template"
+msgstr "Plantilla"
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:163
+#, php-format
+msgid ""
+"Format how you want to show your tweets. Feel free to add HTML, see %s table "
+"for more refrence."
+msgstr ""
+"Formato para presentar los tweets. Puedes usar HTML si quieres. Revisa %s "
+"tabla para más información."
+
+#: Y:\www\xoops\themes\ethernial/blocks/ethernial.tweetie.php:186
+msgid "All categories"
+msgstr "Todas las categorías"

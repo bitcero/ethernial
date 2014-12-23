@@ -1,0 +1,87 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title><{$xoops_pagetitle}><{if $xoops_pagetitle!=''}> - <{/if}><{$xoops_sitename}></title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+    <!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+    <!-- RMTemplateHeader -->
+</head>
+<body<{if $isHome}> class="homepage"<{/if}>>
+<{if $theme->settings('analytics')!=''}>
+<{$theme->settings('analytics')}>
+<{/if}>
+<{if $isHome}>
+    <{includeq file="ethernial/templates/ethernial-home.tpl"}>
+<{else}>
+
+    <{includeq file="ethernial/templates/ethernial-content.tpl"}>
+
+<{/if}>
+
+<!-- Footer -->
+<div id="footer">
+    <div class="container">
+        <div class="row">
+            <{foreach item="block" from=$xoBlocks.ether_footer}>
+            <div class="col-sm-4 footer-block">
+                <{$ether->block_title($block.title)}>
+                <div class="block-content">
+                    <{$block.content}>
+                </div>
+            </div>
+            <{/foreach}>
+
+        </div>
+        <hr />
+        <div class="row">
+            <div class="col-xs-12">
+
+                <!-- Contact -->
+                <section class="contact text-center">
+                    <header>
+                        <h3><{$theme->settings('footer_text')}></h3>
+                    </header>
+                    <p><{$theme->settings('footer_tagline')}></p>
+                    <ul class="icons">
+                        <{foreach item=social from=$theme->settings('social')}>
+                        <li>
+                            <a href="<{$social.link}>" title="<{$social.title}>"><span class="fa <{$social.icon}>"></span></a>
+                        </li>
+                        <{/foreach}>
+                    </ul>
+                </section>
+
+
+            </div>
+
+        </div>
+
+        <div class="row">
+
+            <div class="col-xs-12 bottom-links">
+
+                <ul class="list-inline">
+                    <{foreach item=link from=$theme->settings("links")}>
+                    <li>
+                        <{$link.item}>
+                    </li>
+                    <{/foreach}>
+                </ul>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>
+<{if $system_messages}>
+    <div id="ethernial-system-messages">
+        <button type="button" class="close" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <{foreach item=msg from=$system_messages}>
+        <p><{$msg.text}></p>
+        <{/foreach}>
+    </div>
+<{/if}>
+</body>
+</html>
