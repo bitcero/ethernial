@@ -1,13 +1,11 @@
 Ethernial for XOOPS
 =========
 Ethernial is a __fremium__ theme for [XOOPS](http://xoops.org) constructed over [xThemes](https://github.com/bitcero/xthemes) and [Common Utilities](http://rmcommon.com). This theme provides a clean an nice looking design for your site, however its installation requires more attention that standard themes.
-
+---
 ### Demo and Download
----
 __[Download](https://github.com/bitcero/ethernial/archive/v1.0.0.zip)__  |  __[Demo](http://ethernial.xoopstastic.com)__
-
-### Requirements
 ---
+### Requirements
 The following modules and components are required before to install Ethernial.
 
 * [XOOPS 2.5.7](http://xoops.org)
