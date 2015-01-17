@@ -23,7 +23,7 @@ The following modules and components are required before to install Ethernial.
 
 ##### Plugins
 * [AdvancedForms](https://github.com/bitcero/advform/releases) plugin for __rmcommon__ (_This plugin is required for xThemes_)
-* 
+
 ---
 
 ### Recommended components
@@ -61,5 +61,13 @@ Now that __Ethernial__ is installed, you can configure it trough xThemes setting
 
 ### Very important
 
-As you will see, Ethernial is highly integrated with required modules. This means that you need to create content in MyWords, Professional Works and QuickPages to get the theme functioning correctly.
+As you will see, Ethernial is highly integrated with required modules. This means that you need create content in MyWords, Professional Works and QuickPages, to get the theme working correctly.
+
+---
+
+### Questions? Bugs?
+
+If you found any bug or have any suggestion, I really apreciate if you use the [Issues Tool](https://github.com/bitcero/ethernial/issues) to report or comment.
+
+Also, if you wish a professional customization of this or other themes, __[contact me](http://eduardocortes.mx/contactame/)__.
 
