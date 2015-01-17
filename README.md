@@ -34,3 +34,24 @@ The next componentes are highly recommended for a better use of theme.
 ---
 
 ### Installation
+Now that you have installed and configured all required coponents, you can install Ethernial on XOOPS. Note that Ethernial, such as other themes based on xThemes, is an advanced component that require certain setup before to get it running correctly.
+
+If you go to front end, right after to install it, probabily you can't see anything, or even a malformed design. This behaviour is normal because you need to create content and configure the theme before to use it.
+
+__Steps to install Ethernial__
+
+1. Install all required components (modules and plugins)
+2. Uncompress downloaded zip file to ypur harddrive.
+3. Upload folder _*ethernial*_ to `/themes` Xoops directory.
+4. Go to __xthemes__ control panel -> themes amanager. You can see the __Ethernial__ screenshot.
+5. Click on button __install__ below to Ethernial screenshot.
+6. Now you have Ethernial installed and ready to be configured.
+
+---
+
+### Configuration
+
+Now that __Ethernial__ is installed, you can configure it trough xThemes settings panel. To do that:
+
+1. Go to Xoops control panel -> xthemes -> settings.
+2. Change all desired options for Ethernial.
