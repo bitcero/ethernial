@@ -55,3 +55,11 @@ Now that __Ethernial__ is installed, you can configure it trough xThemes setting
 
 1. Go to Xoops control panel -> xthemes -> settings.
 2. Change all desired options for Ethernial.
+3. Save changes every time you need.
+
+---
+
+### Very important
+
+As you will see, Ethernial is highly integrated with required modules. This means that you need to create content in MyWords, Professional Works and QuickPages to get the theme functioning correctly.
+
