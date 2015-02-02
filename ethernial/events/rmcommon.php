@@ -7,7 +7,7 @@ class EthernialThemeRmcommonPreload
         global $etherStyles;
         $css_url = XOOPS_THEME_URL . '/ethernial/css';
 
-        if ( isset( $styles['ethernialstylesphpsrcbootstrapcss'] ) )
+        if ( isset( $styles['bootstrap'] ) )
             $etherStyles[] = 'bootstrap.css';
 
         if ( isset( $styles['ethernialstylesphpsrcstylescss'] ) )
@@ -25,7 +25,7 @@ class EthernialThemeRmcommonPreload
         if ( isset( $styles['docsstandalonecss'] ) )
             $etherStyles[] = 'docs.css';
 
-        $styles['ethernialstylesphpsrcbootstrapcss']['url'] = $css_url . '/styles.php?src=' . implode(",", $etherStyles);
+        $styles['bootstrap']['url'] = $css_url . '/styles.php?src=' . implode(",", $etherStyles);
 
         /*if ( isset( $styles['mywordsmwblockscss'] ) )
             $styles['mywordsmwblockscss']['url'] = $css_url . '/styles.php?src=mywords-mwblocks.css';*/
